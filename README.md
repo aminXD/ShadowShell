@@ -8,7 +8,7 @@ Reverse TCP App with python By aminXD. Support:
 * Windows (tested)
 ## Features
 * Can Be **EXE** File.
-* Can Take Screenshot, Get Clipboard, Set Clipboard, Others Can`t Sniff Packets (Cause Coded With Zlib), Get File From Vicitim, Get Vicitim System Info, Send Command.
+* Can Take Screenshot, Get Clipboard, Set Clipboard, Others Can`t Sniff Packets (Cause Coded With bz2), Get File From Vicitim, Get Vicitim System Info, Send Command.
 * Have Color Art.
 * Compress Data, Cause Less Data = Less Time To Send = Less Data Usage.
 ---
