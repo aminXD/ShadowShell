@@ -7,9 +7,6 @@ import os, sys, bz2
 from PIL import Image
 from colorama import init
 from colorama import Fore
-from random import choice
-from string import ascii_letters
-from time import sleep
 os.system("title ShadowShell")
 try:
     os.system("cls") # clear screen in windows
